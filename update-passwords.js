@@ -59,6 +59,7 @@ async function updatePasswords() {
   }
 
   console.log(`\n🎉 Password update complete!`);
+  
   console.log(`Successful: ${successCount}`);
   console.log(`Failed: ${failCount}`);
 }
